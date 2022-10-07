@@ -1,4 +1,4 @@
-<h1>Sami Adli | Front End Developer</h1>
+<h1>Sami Adli | Front End Developer :wave:</h1>
 
 <!---
 1Sami1/1Sami1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
