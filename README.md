@@ -7,6 +7,8 @@
   <a href='https://dev.to/samisosa'><img src='https://github.com/1Sami1/1Sami1/blob/main/assets/dev-icon.png' width='25px'></img></a>
 </div>
 
+<p align='left' >Hello im Sami! 👋 <br> </p>
+
 
 
 
