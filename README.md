@@ -8,7 +8,9 @@
 </div>
 
 <p align='left' >Hello im Sami! 👋 <br> </p>
-
+<div align='center'> 
+<a href="https://app.daily.dev/SamiS0sa"><img src="https://api.daily.dev/devcards/9ece67316e9541bf8e5fdef6db26a899.png?r=vog" width="250"  alt="Sami Adli's Dev Card"/></a>
+</div>
 
 
 
