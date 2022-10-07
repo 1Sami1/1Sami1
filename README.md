@@ -1,4 +1,4 @@
-<img width='600px' src='https://github.com/1Sami1/1Sami1/blob/main/assets/github-banner.png'></img>
+<img width='600px' align='center' src='https://github.com/1Sami1/1Sami1/blob/main/assets/github-banner.png'></img>
 
 <!---
 1Sami1/1Sami1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
